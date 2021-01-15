@@ -6,4 +6,5 @@ class ApplicationController < ActionController::Base
   #test
   #test edited by cm
   #2021-01-15
+  #test git by mayunfei
 end
